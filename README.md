@@ -51,8 +51,11 @@ on which there are queens. No messages are sent when executing this command.<br>
 ● stop - Stops the node. Another node will continue where this node left off.
 There is one node to which the remaining work gets allocated.<br>
 
+# Node message documentation
+The [documetation](https://github.com/ArtisticCodr/Distributed_queens/blob/master/Documentation%20(Serbian)/KiDS%20Dokumentacija.pdf) taht states the behaviour and messages of the nodes written in serbian. 
+
 # Note
-This Project was written as a part of the course "Concurrent and Distributed Systems" at The Faculty Of Computer Science in Belgrade
+This Project was written as a part of the course "Concurrent and Distributed Systems" at The Faculty Of Computer Science in Belgrade.
 
 # Contributed
 Filip Hadzi-Ristic<br>
