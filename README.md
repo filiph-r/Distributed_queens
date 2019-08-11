@@ -25,7 +25,7 @@ attributes:<br>
 ● Limit - the percentage of work below which theft of work is not allowed. <br>
 
 # Commands and reports
-The user can assign the following commands to the system:<br><br>
+The user can assign the following commands to the system (from nodes):<br><br>
 ● status - Displays the status of all started calculations, and indicates the current status
 actively, if any. Possible states are: active, paused, done, fuzzy. Just one
 calculation can be active at one time, while all others have to be
