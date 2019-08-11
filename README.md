@@ -1,4 +1,4 @@
-# Distributed_queens
+# Distributed queens
 This is a functional distributed system that will solve the problem of [n queens](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3). <br>The system can do the following:<br><br>
 ● Starting calculations for an arbitrary size problem.<br>
 ● Distributed calculation for a given problem.<br>
