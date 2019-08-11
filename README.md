@@ -8,7 +8,7 @@ This is a functional distributed system that will solve the problem of [n queens
 ● Start multiple calculations in parallel.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;○ Only one calculation is active at a time, the rest are paused.<br>
 ● View progress of running calculations.<br>
-● Arbitrary switching of nodes on and off without resistance to failure.<br>
+● Arbitrary switching of nodes on and off without failure.<br>
 ● All nodes are constantly loaded with the work stealing approach.<br>
 
 # Functionality
