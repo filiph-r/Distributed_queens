@@ -1,0 +1,4 @@
+Exception in thread "Thread-8" java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1551)
+	at cli.CLIParser.run(CLIParser.java:43)
+	at java.lang.Thread.run(Thread.java:812)

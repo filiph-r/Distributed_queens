@@ -1,0 +1,5 @@
+sleep 15100
+start 6
+sleep 3000
+status
+stop

@@ -1,0 +1,3 @@
+java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1551)
+	at app.BootStrap.main(BootStrap.java:22)
